@@ -11,17 +11,21 @@ Part of both models is an array that loops through all the particles, obtains th
 Screenshots are automatically taken at the end of the simulation, but make sure the window is properly centered (leave it untouched). Other controls for screenshots are given in the codes.
 
 Perhaps the most interesting point is that boids, which show flocking behavior, can show a link between biology and turbulence. With further developments to the code, hopefully by early next year, the codes can be finalized.
-## Screenshots
+
+## Fuel Ejector Screenshots
 
 [![Gas-Particle-Simulation-Quit.png](https://i.postimg.cc/brMzvkQk/Gas-Particle-Simulation-Quit.png)](https://postimg.cc/N26hJyCj)
 [![Gas-Particle-Concentration-Quit-Graph.png](https://i.postimg.cc/kXBGdXxW/Gas-Particle-Concentration-Quit-Graph.png)](https://postimg.cc/6yxtrKbQ)
 [![Gas-Particle-Mean-Squared-Dispersion-Graph.png](https://i.postimg.cc/GmvccB9T/Gas-Particle-Mean-Squared-Dispersion-Graph.png)](https://postimg.cc/SnN0dx6m)
 [![Gas-Particle-Speed-Distribution-Quit-Graph.png](https://i.postimg.cc/sXgy9wm5/Gas-Particle-Speed-Distribution-Quit-Graph.png)](https://postimg.cc/7Cdpq1pL)
 
+## Flocking Behavior Screenshots
+
 [![Boid-Simulation-Quit.png](https://i.postimg.cc/hvQkpwdQ/Boid-Simulation-Quit.png)](https://postimg.cc/64wbQMzB)
 [![Boid-Concentration-Quit-Graph.png](https://i.postimg.cc/RV5S2QZx/Boid-Concentration-Quit-Graph.png)](https://postimg.cc/s1mChWWT)
-## Author
 [![Boid-Mean-Squared-Dispersion-Graph.png](https://i.postimg.cc/dVQYKWMp/Boid-Mean-Squared-Dispersion-Graph.png)](https://postimg.cc/qzFYsxvx)
 [![Boid-Concentration-Full-Graph.png](https://i.postimg.cc/4yRD2Pb8/Boid-Concentration-Full-Graph.png)](https://postimg.cc/5YpK6wrv)
 
+
+## Author
 [@aarushkukreja](https://github.com/aarushkukreja)
