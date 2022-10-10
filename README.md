@@ -36,4 +36,4 @@ Perhaps the most interesting point is that boids, which show flocking behavior, 
 
 
 ## Author
-[@aarushkukreja](https://github.com/aarushkukreja)
+[@aarushkuk](https://github.com/aarushkuk)
