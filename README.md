@@ -1,5 +1,10 @@
 # Turbulence in Flocking Behavior Versus Fuel Injector
 
+## Screenshots (Example Simulations)
+[![Boid-Simulation-Quit.png](https://i.postimg.cc/hvQkpwdQ/Boid-Simulation-Quit.png)](https://postimg.cc/64wbQMzB)
+[![Gas-Particle-Simulation-Quit.png](https://i.postimg.cc/brMzvkQk/Gas-Particle-Simulation-Quit.png)](https://postimg.cc/N26hJyCj)
+
+
 ## Introduction
 Turbulence, organized chaos, has been a subject of study for hundreds of years. Fuel ejectors, based on several factors ranging from ambient air to the pressure in the pipeline before ejection, can show turbulence after free expansion in laminar flow. However, as demonstrated by these programs, it is difficult to create such a Python turbulence program with a low cost of computation. 
 
@@ -20,19 +25,18 @@ Perhaps the most interesting point is that boids, which show flocking behavior, 
 
 ## Screenshots
 
-### Fuel Ejector Screenshots (Example Simulation)
+### More Flocking Behavior Screenshots (Example Simulation)
 
-[![Gas-Particle-Simulation-Quit.png](https://i.postimg.cc/brMzvkQk/Gas-Particle-Simulation-Quit.png)](https://postimg.cc/N26hJyCj)
+[![Boid-Concentration-Quit-Graph.png](https://i.postimg.cc/RV5S2QZx/Boid-Concentration-Quit-Graph.png)](https://postimg.cc/s1mChWWT)
+[![Boid-Mean-Squared-Dispersion-Graph.png](https://i.postimg.cc/dVQYKWMp/Boid-Mean-Squared-Dispersion-Graph.png)](https://postimg.cc/qzFYsxvx)
+[![Boid-Concentration-Full-Graph.png](https://i.postimg.cc/4yRD2Pb8/Boid-Concentration-Full-Graph.png)](https://postimg.cc/5YpK6wrv)
+
+### More Fuel Ejector Screenshots (Example Simulation)
+
 [![Gas-Particle-Concentration-Quit-Graph.png](https://i.postimg.cc/kXBGdXxW/Gas-Particle-Concentration-Quit-Graph.png)](https://postimg.cc/6yxtrKbQ)
 [![Gas-Particle-Mean-Squared-Dispersion-Graph.png](https://i.postimg.cc/GmvccB9T/Gas-Particle-Mean-Squared-Dispersion-Graph.png)](https://postimg.cc/SnN0dx6m)
 [![Gas-Particle-Speed-Distribution-Quit-Graph.png](https://i.postimg.cc/sXgy9wm5/Gas-Particle-Speed-Distribution-Quit-Graph.png)](https://postimg.cc/7Cdpq1pL)
 
-### Flocking Behavior Screenshots (Example Simulation)
-
-[![Boid-Simulation-Quit.png](https://i.postimg.cc/hvQkpwdQ/Boid-Simulation-Quit.png)](https://postimg.cc/64wbQMzB)
-[![Boid-Concentration-Quit-Graph.png](https://i.postimg.cc/RV5S2QZx/Boid-Concentration-Quit-Graph.png)](https://postimg.cc/s1mChWWT)
-[![Boid-Mean-Squared-Dispersion-Graph.png](https://i.postimg.cc/dVQYKWMp/Boid-Mean-Squared-Dispersion-Graph.png)](https://postimg.cc/qzFYsxvx)
-[![Boid-Concentration-Full-Graph.png](https://i.postimg.cc/4yRD2Pb8/Boid-Concentration-Full-Graph.png)](https://postimg.cc/5YpK6wrv)
 
 
 ## Author
