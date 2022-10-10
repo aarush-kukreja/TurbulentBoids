@@ -1,4 +1,4 @@
-# Turbulence in Flocking Behavior Versus Fuel Injector, a Computational Experimental Study
+# Turbulence in Flocking Behavior Versus Fuel Injector
 
 ## Introduction
 Turbulence, organized chaos, has been a subject of study for hundreds of years. Fuel ejectors, based on several factors ranging from ambient air to the pressure in the pipeline before ejection, can show turbulence after free expansion in laminar flow. However, as demonstrated by these programs, it is difficult to create such a Python turbulence program with a low cost of computation. 
