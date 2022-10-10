@@ -20,14 +20,14 @@ Perhaps the most interesting point is that boids, which show flocking behavior, 
 
 ## Screenshots
 
-### Fuel Ejector Screenshots
+### Fuel Ejector Screenshots (Example Simulation)
 
 [![Gas-Particle-Simulation-Quit.png](https://i.postimg.cc/brMzvkQk/Gas-Particle-Simulation-Quit.png)](https://postimg.cc/N26hJyCj)
 [![Gas-Particle-Concentration-Quit-Graph.png](https://i.postimg.cc/kXBGdXxW/Gas-Particle-Concentration-Quit-Graph.png)](https://postimg.cc/6yxtrKbQ)
 [![Gas-Particle-Mean-Squared-Dispersion-Graph.png](https://i.postimg.cc/GmvccB9T/Gas-Particle-Mean-Squared-Dispersion-Graph.png)](https://postimg.cc/SnN0dx6m)
 [![Gas-Particle-Speed-Distribution-Quit-Graph.png](https://i.postimg.cc/sXgy9wm5/Gas-Particle-Speed-Distribution-Quit-Graph.png)](https://postimg.cc/7Cdpq1pL)
 
-### Flocking Behavior Screenshots
+### Flocking Behavior Screenshots (Example Simulation)
 
 [![Boid-Simulation-Quit.png](https://i.postimg.cc/hvQkpwdQ/Boid-Simulation-Quit.png)](https://postimg.cc/64wbQMzB)
 [![Boid-Concentration-Quit-Graph.png](https://i.postimg.cc/RV5S2QZx/Boid-Concentration-Quit-Graph.png)](https://postimg.cc/s1mChWWT)
