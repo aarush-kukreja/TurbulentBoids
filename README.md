@@ -6,22 +6,22 @@
 
 
 ## Introduction
-Turbulence, organized chaos, has been a subject of study for hundreds of years. Fuel ejectors, based on several factors ranging from ambient air to the pressure in the pipeline before ejection, can show turbulence after free expansion in laminar flow. However, as demonstrated by these programs, it is difficult to create such a Python turbulence program with a low cost of computation. 
+Turbulence, organized chaos, has been a subject of study for hundreds of years. Fuel ejectors, based on several factors ranging from ambient air to the pressure in the pipeline before ejection, can show turbulence after free expansion in laminar flow. However, as demonstrated by these programs, creating such a Python turbulence program with a low computation cost is challenging. 
 
 ## Fuel Ejector Model
-The Fuel Ejector / Gas Particle Spray model provided features several factors available for modulation. Over time, the particles relax to a Maxwell-Boltzmann distribution (which is tracked and shown at the end of the simulation; the speed distribution graph given below is only an example, one can create more accurate distributions by altering input). Furthermore, number density standard deviation, mean squared dispersion, and the derivative halved of mean squared dispersion is tracked. These formulas are typically used in particle physics. With the correct parameters, such as the ones already provided, the particle results align with realistic results.
+The Fuel Ejector / Gas Particle Spray model provided features several factors available for modulation. Over time, the particles relax to a Maxwell-Boltzmann distribution (which is tracked and shown at the end of the simulation; the speed distribution graph given below is only an example. One can create more accurate distributions by altering input). Furthermore, number density standard deviation, mean squared dispersion, and the derivative halved of mean squared dispersion is tracked. These formulas are typically used in particle physics. The particle results align with realistic results with the correct parameters, such as those already provided.
 
 ## Flocking Behavior Model
-The Flocking Behavior boid model features the same factors as the Gas Particle Spray model. The model is yet to be fully complete, needed realsitic turbulent flows, but even simple simulations show hints of turbulence. As one changes the parameters, they will find that they can simulate turbulent phenomena where the boids swirl back onto themselves. The point to be made is that the Gas Particle Spray model would require much more advanced and demanding codes, while the Boid model is able to achieve signs of turbulence with only some simple lines.
+The Flocking Behavior boid model features the same factors as the Gas Particle Spray model. The model is yet to be fully complete and needs realistic turbulent flows, but even simple simulations show hints of turbulence. As one changes the parameters, they will find they can simulate turbulent phenomena where the boids swirl back onto themselves. The point to be made is that the Gas Particle Spray model would require much more advanced and demanding codes, while the Boid model can achieve signs of turbulence with only some simple lines.
 
 ## Important Points
-Part of both models is an array that loops through all the particles, obtains their position, and creates a graph that shows where the particles are concentrated for further analysis after experimentation. Much of the code that would be used to track turbulent flows is already embedded within. Both codes have directions that allow for simple adjustments of only the parameters. The array is used to create more arrays for all other tracked factors.
+Part of both models is an array that loops through all the particles, obtains their position, and creates a graph that shows where the particles are concentrated for further analysis after experimentation. Much of the code used to track turbulent flows is already embedded within. Both codes have directions that allow for simple adjustments of only the parameters. The array is used to create more arrays for all other tracked factors.
 
-Screenshots are automatically taken at the end of the simulation, but make sure the window is properly centered (leave it untouched). Other controls for screenshots are given in the codes.
+Screenshots are automatically taken at the end of the simulation, but make sure the window is centered correctly (leave it untouched). Other controls for screenshots are given in the codes.
 
 ## Future
 
-Perhaps the most interesting point is that boids, which show flocking behavior, can show a link between biology and turbulence. With further developments to the code, hopefully by early next year, the codes can be finalized.
+Perhaps the most exciting point is that boids, which show flocking behavior, can show a link between biology and turbulence. Hopefully, by early next year, the programs can be finalized with further developments to the code.
 
 ## Screenshots
 
@@ -37,7 +37,5 @@ Perhaps the most interesting point is that boids, which show flocking behavior, 
 [![Gas-Particle-Mean-Squared-Dispersion-Graph.png](https://i.postimg.cc/GmvccB9T/Gas-Particle-Mean-Squared-Dispersion-Graph.png)](https://postimg.cc/SnN0dx6m)
 [![Gas-Particle-Speed-Distribution-Quit-Graph.png](https://i.postimg.cc/sXgy9wm5/Gas-Particle-Speed-Distribution-Quit-Graph.png)](https://postimg.cc/7Cdpq1pL)
 
-
-
 ## Author
-[@aarushkuk](https://github.com/aarushkuk)
+Aarush Kukreja, [@aarushkuk](https://github.com/aarushkuk)
