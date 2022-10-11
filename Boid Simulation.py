@@ -449,4 +449,3 @@ pygame.quit()
 
 #Notes
 #Do not move simulation window for correct screenshot; on Mac, minimize doc as much as possible
-#The "standard deviation" formula for 
