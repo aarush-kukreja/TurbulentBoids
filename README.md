@@ -1,7 +1,8 @@
 # Turbulence in Flocking Behavior Versus Fuel Injector
 
 ## Screenshots (Example Simulations)
-[![C5-C65-E25-8-E69-4-E9-E-9766-1-D3389026-A78.jpg](https://i.postimg.cc/8CLBzmQQ/C5-C65-E25-8-E69-4-E9-E-9766-1-D3389026-A78.jpg)](https://postimg.cc/DWybCswB)
+
+[E3-F8148-C-0619-4386-83-C8-F8822-B98-ACD6.jpg](https://postimg.cc/rDbK9H7F)
 
 
 ## Introduction
