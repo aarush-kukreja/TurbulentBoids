@@ -1,4 +1,4 @@
-# Turbulence in Flocking Behavior Versus Fuel Injector
+# Linking Biological Flocking with Turbulence (how birds, fish, bacteria and etc. move with fuel injectors, hurricanes, blood flow and etc.)
 
 ## Screenshots (Example Simulations)
 
