@@ -1,11 +1,7 @@
 # Linking Biological Flocking with Turbulence (how birds, fish, bacteria and etc. move with fuel injectors, hurricanes, blood flow and etc.)
-## Video
-[![IMAGE](https://img.youtube.com/vi/ImoDOyBzeKY&t=1s/0.jpg)](https://www.youtube.com/watch?v=ImoDOyBzeKY&t=1s)
 
-## Screenshots (Example Simulations)
-
-[![E3-F8148-C-0619-4386-83-C8-F8822-B98-ACD6.jpg](https://i.postimg.cc/g0c8GFDR/E3-F8148-C-0619-4386-83-C8-F8822-B98-ACD6.jpg)](https://postimg.cc/rDbK9H7F)
-
+## Videos
+[![Linking Biological Flocking with Turbulence](https://img.youtube.com/vi/ImoDOyBzeKY/0.jpg)](https://www.youtube.com/watch?v=ImoDOyBzeKY "Linking Biological Flocking with Turbulence")
 
 ## Introduction
 Turbulence, organized chaos, has been a subject of study for hundreds of years. Fuel injectors, based on several factors ranging from ambient air to the pressure in the pipeline before ejection, can show turbulence after free expansion in laminar flow. However, as demonstrated by these programs, creating such a Python turbulence program with a low computation cost is challenging. 
