@@ -1,4 +1,6 @@
 # Linking Biological Flocking with Turbulence (how birds, fish, bacteria and etc. move with fuel injectors, hurricanes, blood flow and etc.)
+## Video
+[![IMAGE](https://img.youtube.com/vi/ImoDOyBzeKY&t=1s/0.jpg)](https://www.youtube.com/watch?v=ImoDOyBzeKY&t=1s)
 
 ## Screenshots (Example Simulations)
 
