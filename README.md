@@ -1,7 +1,10 @@
 # Bio-Turbulence (Linking Biological Flocking with Turbulence)
 
 ## Videos
-[![Linking Biological Flocking with Turbulence](https://img.youtube.com/vi/SFfnEDMSSqo/0.jpg)](https://www.youtube.com/watch?v=SFfnEDMSSqo "Linking Biological Flocking with Turbulence")
+
+[![Linking Biological Flocking with Turbulence 1](https://img.youtube.com/vi/ImoDOyBzeKY/0.jpg)](https://www.youtube.com/watch?v=ImoDOyBzeKY "Linking Biological Flocking with Turbulence 1")
+
+[![Linking Biological Flocking with Turbulence 2](https://img.youtube.com/vi/SFfnEDMSSqo/0.jpg)](https://www.youtube.com/watch?v=SFfnEDMSSqo "Linking Biological Flocking with Turbulence 2")
 
 ## Introduction
 Turbulence, organized chaos, has been a subject of study for hundreds of years. Fuel injectors, based on several factors ranging from ambient air to the pressure in the pipeline before ejection, can show turbulence after free expansion in laminar flow. However, as demonstrated by these programs, creating such a Python turbulence program with a low computation cost is challenging. 
