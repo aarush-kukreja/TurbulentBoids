@@ -1,4 +1,4 @@
-# Linking Biological Flocking with Turbulence
+# Bio-Turbulence (Linking Biological Flocking with Turbulence)
 
 ## Videos
 [![Linking Biological Flocking with Turbulence](https://img.youtube.com/vi/SFfnEDMSSqo/0.jpg)](https://www.youtube.com/watch?v=SFfnEDMSSqo "Linking Biological Flocking with Turbulence")
