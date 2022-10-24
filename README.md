@@ -1,4 +1,4 @@
-# Bio-Turbulence (Linking Biological Flocking with Turbulence)
+# Boid-Turbulence (Linking Biological Flocking with Turbulence)
 
 ## Videos
 
