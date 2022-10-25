@@ -1,4 +1,4 @@
-# TurbulentBoids (Linking Biological Flocking with Turbulence)
+# Turbulent Boids (Linking Biological Flocking with Turbulence)
 
 ## Videos
 
