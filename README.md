@@ -1,4 +1,4 @@
-# TurbulentBoids (Linking Biological Flocking with Turbulence)
+# TurbulentBoids (Linking Biological Flocking with Turbulence) [TurbulentBoids.com](url)
 [![Turbulent-Boids-1.png](https://i.postimg.cc/XqDjnBQB/Turbulent-Boids-1.png)](https://postimg.cc/2LhRwypC)
 
 Open-source Python software for building and running bio-turbulent studies
