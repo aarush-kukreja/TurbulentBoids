@@ -4,7 +4,7 @@
 Open-source Python software for building and running bio-turbulent studies
 
 
-## Videos
+## Video
 
 [![Linking Biological Flocking with Turbulence](https://img.youtube.com/vi/ImoDOyBzeKY/0.jpg)](https://www.youtube.com/watch?v=SFfnEDMSSqo "Linking Biological Flocking with Turbulence")
 
