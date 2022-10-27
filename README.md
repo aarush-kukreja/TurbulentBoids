@@ -1,4 +1,5 @@
 # TurbulentBoids (Linking Biological Flocking with Turbulence)
+Open-source Python software for building and running bio-turbulent studies
 
 ## Videos
 
