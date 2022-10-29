@@ -16,10 +16,11 @@ The significance lies in understanding how our world could be more interconnecte
 
 ## Upcoming Updates
 
-Version 1.0 was released 9/28/22.  Version 1.1 will include:
+Version 1.0 was released 9/28/22.  Version 1.1:
+
 "Liquid" in boid software is currently vorticities in incompressible flows—solenoidal velocity fields; find correct factor balances and set as default to describe the evolution of the field; define a field theory; align with vorticity equation; equidistant requirement—0 divergence.
 
-Vortices are manifest from turbulent behavior of a fluid; flocking is a transition to a state of high order—disruptions are transient. Flocked systems, long term, allow for the emergence of bands—orientational fluctiations are built into the alignment mechanism in Reynolds' algorithms. Add methodology to make flocks read thermodynamic limit--turbulence is exhibited by fluids that are made of molecules at high density and be approximated by continuum. Flocks are nonequilibrium—organisms do not conserve energy and are active particles. Fluid models, like Navier-Stokes equations, are derived from conservation principles. Thus, explore and add Visek's model of flocking; observe correlation functions associated with turbulence and calculate metrics on Vicsek flocks and compare decay.
+Vortices are manifest from turbulent behavior of a fluid; flocking is a transition to a state of high order—disruptions are transient. Flocked systems, long term, allow for the emergence of bands—orientational fluctiations are built into the alignment mechanism in Reynolds' algorithms. Add methodology to make flocks read thermodynamic limit—turbulence is exhibited by fluids that are made of molecules at high density and be approximated by continuum. Flocks are nonequilibrium—organisms do not conserve energy and are active particles. Fluid models, like Navier-Stokes equations, are derived from conservation principles. Thus, explore and add Visek's model of flocking; observe correlation functions associated with turbulence and calculate metrics on Vicsek flocks and compare decay.
 
 Implement Lennard-Jones fluid experimentation.
 
