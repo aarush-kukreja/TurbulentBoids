@@ -342,6 +342,13 @@ def update_fps():
     fps = "FPS: " + str(int(clock.get_fps()))
     fps_text = font.render(fps, 1, text_color)
     return fps_text
+'''
+def lagrangian_velocity_autocorrelation(speeds, tau):
+    lagrangian_velocity_autocorrelation = 0
+    for i in range(len(speeds)):
+        lagrangian_velocity_autocorrelation += speeds[i] * speeds[(i + tau) % len(velocities)]
+    return lagrangian_velocity_autocorrelation / len(speeds)
+'''
 
 def update_time_left():
     fps = int(clock.get_fps())
